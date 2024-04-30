@@ -1,4 +1,4 @@
-from flask import Flask, render_template, Response, request
+import Flask, render_template, Response, request
 import json
 import argparse
 import os
